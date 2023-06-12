@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("https://i.ibb.co/8jybWCX/pngwing-com-1.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    backdrop-filter: blur(3.5px);
+    -webkit-backdrop-filter: blur(3.5px);
+    height: 100%;
+}
+
+.head {
+    text-align: center;
+    color: #efbb8c;
+    background-color: #44260e;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color:#efbb8c;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.title {
+    color: #efbb8c;
+    font-family: 'Times New Roman', Times, serif;
+    font: bold;
+    font-size: 26px;
+    margin-top: 17px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+
+.title1 {
+    color: #efbb8c;
+    font-family: 'Times New Roman', Times, serif;
+    font: bold;
+    font-size: 26px;
+    margin-top: 200px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+
+.forTest{
+    -webkit-text-stroke: 0.4px #efbb8c;
+}
+
+button {
+    color: #df8845;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #5e2d0c;
+    border: 7px solid #5e2d0c;
+    border-radius: 8px;
+    font-size: 30px;
+    text-align: center;
+    transition: 0.3s ease all;
+}
+
+button:hover {
+    color: #5e2d0c;
+    background-color: #df8845;
+    border: 7px solid #df8845;
+    transform: scale(1.03);
+}
+
+.divBtn2 {
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.img3 {
+    margin-top: 25px;
+}
+
+.img2 {
+    margin-left: 83px;
+}
+
+.img1 {  
+    margin-left: 10px;
+}
+
+.html2Questions{
+    color: #efbb8c;
+    font-family: 'Times New Roman', Times, serif;
+    font: bold;
+    font-size: 26px;
+    margin-top: 17px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: relative;
+    -webkit-text-stroke: 0.4px #efbb8c;
+}
+
+form{
+    color: #efbb8c;
+    font-family: 'Times New Roman', Times, serif;
+    font: bold;
+    text-align: center;
+    font-size: 26px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    line-height: 40px;
+}
+
+.input{
+    color: #df8845;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #5e2d0c;
+    border: 7px solid #5e2d0c;
+    border-radius: 8px;
+    font-size: 30px;
+    text-align: center;
+    transition: 0.3s ease all;
+}
+
+.input:hover{
+    color: #5e2d0c;
+    background-color: #df8845;
+    border: 7px solid #df8845;
+    transform: scale(1.03);
+}
